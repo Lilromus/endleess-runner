@@ -1,2 +1,2 @@
 # endleess-runner
-jebac ps  te nne parte :b
+jebac pis  te nne partie :b
